@@ -12,7 +12,7 @@ $a = '';
 $de = '';
 $tasa = '';
 $whatsapp = '';
-$repositorio = '';
+
 
 if ($_POST) {
     $monto = $_POST['monto'];
