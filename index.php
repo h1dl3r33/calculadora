@@ -12,6 +12,7 @@ $a = '';
 $de = '';
 $tasa = '';
 $whatsapp = '';
+$mac = '';
 
 
 if ($_POST) {
